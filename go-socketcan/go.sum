@@ -1,0 +1,4 @@
+golang.org/x/sys v0.27.0 h1:wBqf8DvsY9Y/2P8gAfPDEYNuS30J4lPHJxXSb/nJZ+s=
+golang.org/x/sys v0.27.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+source-crdc.hirain.com/atx-go/go-socketcan v1.0.2 h1:x8AgS2Zn1hdVbRW2Tp15RhF+ZtEsB1/gOZpCAJqBUI8=
+source-crdc.hirain.com/atx-go/go-socketcan v1.0.2/go.mod h1:A1YLnjMXfZaji1SrMyCdU7n+TBX9HN0j6t1AIR2Rbe4=

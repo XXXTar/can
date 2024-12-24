@@ -1,0 +1,19 @@
+filterMsg:
+  VCU_VehicleSpeed0: 
+    sourceCan: can1
+    desCan: can2
+    filterId: 
+      - 0x18FF0927
+      - 0x18FF0928
+
+  VCU_VehicleSpeed1: 
+    sourceCan: can1
+    desCan: can2
+
+cycleMsg:
+  VCU_VehicleSpeed: 
+    desCan: can2
+    cycleTime: 100
+    sendId: 0x18FEF100
+    sendLength: 8
+    sendValue: [0x04, 0x00, 0x00, 0x00, 0x00, 0xFF, 0x00, 0x00]
